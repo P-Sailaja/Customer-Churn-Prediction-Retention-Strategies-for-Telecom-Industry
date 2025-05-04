@@ -3,6 +3,8 @@
 ---
 This project focuses on identifying customers who are likely to **leave (churn)** a telecom service and proposes **strategies to retain** them. Using **machine learning algorithms**, we built a predictive model that classifies customer churn based on historical data. The project is designed to help telecom companies take **proactive measures** to reduce churn and improve customer retention.
 
+![Churn Analysis Dashboard]["C:\Users\hp\OneDrive\Documents\COLLEGE_Project\image.png"]
+
 Key components of the project:
 
 ✅ **Data Preprocessing & Feature Engineering**
