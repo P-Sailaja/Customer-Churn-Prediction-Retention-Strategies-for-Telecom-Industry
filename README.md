@@ -1,13 +1,16 @@
-📊 Customer Churn Prediction and Retention Strategy for Telecom Industry
-This project focuses on identifying customers likely to churn and implementing effective retention strategies for the telecom industry. It combines machine learning models with interactive dashboards to empower data-driven decision-making.
+📌 Project: Customer Churn Prediction & Retention Strategy for Telecom Industry
+This project focuses on identifying customers who are likely to leave (churn) a telecom service and proposes strategies to retain them. Using machine learning algorithms, we built a predictive model that classifies customer churn based on historical data. The project is designed to help telecom companies take proactive measures to reduce churn and improve customer retention.
 
-🔍 Key Highlights:
-ML Model: Built and deployed using Flask and FastAPI
+Key components of the project:
 
-Data Analysis: Performed EDA and feature engineering to uncover churn drivers
+✅ Data Preprocessing & Feature Engineering
 
-Modeling: Used Random Forest and XGBoost with SMOTE for class imbalance
+✅ Model Building & Evaluation using algorithms like Random Forest and XGBoost
 
-Visualization: Created an interactive Power BI dashboard for business insights
+✅ Confusion Matrix Analysis for performance insights
 
-Outcome: Enables telecom providers to proactively identify at-risk customers and reduce churn
+✅ Deployment using Flask and FastAPI
+
+✅ Interactive Dashboard created using Power BI for visualization and business insights
+
+The model is trained to understand customer behavior and identify churn risk factors such as contract type, monthly charges, and tenure. These insights can drive data-driven decisions to reduce customer attrition.
